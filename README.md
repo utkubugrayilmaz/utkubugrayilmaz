@@ -1,95 +1,67 @@
-# 💫 About Me:
-# Hello, I'm Utku Buğra Yılmaz 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=250&section=header&text=Utku%20Buğra%20Yılmaz&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Computer%20&%20AI%20Engineer&descAlignY=55&descAlign=60" />
+</div>
 
-I am a recent Computer Engineering graduate and an enthusiastic, solution-oriented software developer. I am passionate about leveraging technology to benefit society and eager to contribute to the open-source community.
+<div align="center">
+  
+  <a href="https://linkedin.com/in/utkubugrayilmaz">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:utkubugrayil@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://utkubugrayilmaz.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-100000?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@utkubugrayil">
+    <img src="https://img.shields.io/badge/Medium-Read-12100E?style=flat-square&logo=medium&logoColor=white" />
+  </a>
 
-## 🔭 Current Focus Areas
-
-- **PostaX**: A Smart Mailbox system addressing cargo security issues in the e-commerce sector (I serve as the software leader in a team of four - participating in Teknofest, TÜBİTAK, and Turkcell competitions)
-- Developing new steganography methods to enhance data security in digital images (targeting corporate data security applications)
-- Creating metaheuristic algorithms for solving complex optimization problems (aiming for a 30% performance increase in industrial process optimization)
-- Facial Recognition System Supported Facial Emotion Analysis project, focusing on model development
-
-## 🚀 Featured Projects
-
-### PostaX - Smart Mailbox
-A system ensuring secure and uninterrupted cargo delivery processes, loading...
-
-### Aytar Drone - Smart Search and Rescue System
-A drone project accelerating disaster management and search-rescue operations:
-- Detection of emergency signals using MFCC (Mel-Frequency Cepstral Coefficients) audio analysis
-- Emergency keyword recognition supporting Turkish, English, French, and Spanish
-- Real-time microphone input monitoring and automatic notification creation
-- Semi-finalist in Teknofest 2024 with a pre-evaluation score of 90/100
-
-## 💻 Core Skills
-
-- Python, Java, C# (Advanced Level)
-- Unity, MATLAB (Intermediate Level)
-- OpenCV, TensorFlow, DeepFace, YOLO
-- Audio Processing (MFCC, SpeechRecognition, Google Speech API)
-- NLP and Deep Learning
-- Arduino, RFID, IoT Technologies
-- SQL
-- Team leadership and Agile project management
-- Autosar
-
-## 🏆 Achievements
-
-- Semi-finalist in Teknofest 2024 with the Aytar Drone project (pre-evaluation score: 90/100)
-- Developed a facial and emotion recognition system with 95% accuracy, reducing manual tracking time by 70%
-- Increased solar panel efficiency by 30% and reduced costs by 15% with a solar tracking system (certified in the top 5% for innovation)
-- Achieved a 4.9/5 client satisfaction rate in over 50 freelance projects
-
-## 🤝 Collaboration & Mentorship
-
-- Mentored over 15 students in mathematics and software development (average grade improvement: 40%)
-- Experience working with cross-functional teams in Agile methodologies
-- Eager to contribute to open-source projects and perform code reviews
-- Looking for new team members for the "Technology for the Benefit of Humanity" theme with the Sirius Team! (Deep Learning, Python, IoT, Image Processing, Audio Processing)
-
-## 📫 Contact
-
-- Email: [utkubugrayil@gmail.com](mailto:utkubugrayil@gmail.com)
-- LinkedIn: [Utku Buğra Yılmaz](https://www.linkedin.com/in/utkubuğrayılmaz/)
-- Medium: [Utku Buğra Yılmaz](https://medium.com/@utkubugrayil)
-
-
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-%230076A8.svg?style=for-the-badge&logo=mathworks&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=utku-create&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=utku-create&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=utku-create&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🚀 Featured Projects
-[![Aytar Drone](https://img.shields.io/badge/Aytar%20Drone-Teknofest%20Semifinalist-blue?style=for-the-badge)](https://github.com/utku-create/aytar-drone)
-[![PostaX](https://img.shields.io/badge/PostaX-Smart%20Mailbox%20System-green?style=for-the-badge)](https://github.com/utku-create/postax)
-[![Face Recognition](https://img.shields.io/badge/Face%20Recognition-Emotion%20Analysis-purple?style=for-the-badge)](https://github.com/utku-create/face-emotion)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 📌 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=utku-create&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=utku-create&icon=2&color=4)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### About Me
+
+I am a Computer Engineer specializing in backend architecture and artificial intelligence. My focus is on building scalable systems, developing machine learning models for financial analysis, and creating intelligent agents using RAG architectures.
+
+I have a strong background in freelance software development, delivering engineering solutions ranging from IoT-based security systems to complex financial forecasting models. I am currently working on integrating LLMs with backend services to solve real-world problems.
+
+* **Core Focus:** Agentic AI Systems, Computer Vision, and Financial Tech.
+* **Methodology:** Clean Code, MLOps, and Agile Development.
+
+---
+
+### Technical Skills
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Backend & API** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
+| **AI & Data Science** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
+| **LLM & NLP** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
+| **Tools & DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) |
+
+---
+
+### Selected Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **Financial AI Analyst** | Developed for a Fintech Startup. A backend system analyzing BIST100 stocks, achieving ~0.67 F1-Score in signals. Features multilingual news summarization using LLMs. | `FastAPI` `LightGBM` `DeepSeek` `Docker` |
+| **Portfolio AI Agent** | A custom RAG-based AI assistant integrated into my personal portfolio. It uses vector databases to answer queries about my professional background and projects. | `LangChain` `OpenAI` `VectorDB` `React` |
+| **PostaX (Smart Mailbox)** | Graduation Project. An IoT-based secure delivery system featuring anomaly detection for unauthorized access attempts. | `Arduino` `ESP32` `ML` `IoT` |
+| **Aytar Drone** | Teknofest Semi-Finalist (90/100). Search & rescue software capable of detecting emergency signals via MFCC audio analysis. | `SpeechRecognition` `NLP` `Python` |
+| **Face Emotion Recognition** | Real-time computer vision system achieving 87% accuracy in emotion classification across multiple categories. | `TensorFlow` `DeepFace` `OpenCV` |
+
+---
+
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=utkubugrayilmaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkubugrayilmaz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=utkubugrayilmaz&icon=2&color=4" />
+</div>
